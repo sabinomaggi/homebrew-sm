@@ -5,8 +5,8 @@ class IconLiberator < Formula
   sha256 "e1fee6100b580d65e31dc854273a1aa85e02c49f3dd2c5cd5ed454ca5aa64d51"
   license "GPL-3.0-or-later"
 
-  depends_on :macos
   depends_on "fileicon"
+  depends_on :macos
 
   def install
     bin.install "icon-liberator"
