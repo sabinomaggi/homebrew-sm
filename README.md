@@ -1,4 +1,4 @@
-# Sabinomaggi Sm
+# Homebrew Formulas
 
 ## How do I install these formulae?
 
