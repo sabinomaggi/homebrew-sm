@@ -1,5 +1,5 @@
 class IconLiberator < Formula
-  desc "A bash script to restore macOS application icons trapped in the squircle shape"
+  desc "Bash script to restore macOS application icons trapped in the squircle shape"
   homepage "https://github.com/sabinomaggi/IconLiberator"
   url "https://github.com/sabinomaggi/IconLiberator/archive/refs/tags/v0.1.tar.gz"
   sha256 "e1fee6100b580d65e31dc854273a1aa85e02c49f3dd2c5cd5ed454ca5aa64d51"
