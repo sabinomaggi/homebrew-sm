@@ -13,9 +13,9 @@ class IconLiberator < Formula
     # man1.install "man/icon-liberator.1"
   end
 
-  # test do
-  #   # system bin/"icon-liberator", "-h"
-  #   stdout = shell_output "#{bin}/icon-liberator -h"
-  #   assert_includes stdout, "usage: icon-liberator -f /path/to/applist [-u] [-h]"
-  # end
+  test do
+    # system bin/"icon-liberator", "-h"
+    stdout = shell_output "#{bin}/icon-liberator -h"
+    assert_includes stdout, "usage: icon-liberator -f /path/to/applist [-u] [-h]"
+  end
 end
