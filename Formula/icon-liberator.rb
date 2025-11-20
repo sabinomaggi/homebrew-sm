@@ -9,7 +9,7 @@ class IconLiberator < Formula
   depends_on "fileicon"
 
   def install
-    bin.install "bin/icon-liberator"
+    bin.install "icon-liberator"
     # man1.install "man/icon-liberator.1"
   end
 
