@@ -1,5 +1,3 @@
-# Homebrew Formulae
-
 ## How do I install these formulae?
 
 `brew install sabinomaggi/sm/<formula>`
