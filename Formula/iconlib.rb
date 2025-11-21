@@ -1,4 +1,4 @@
-class IconLib < Formula
+class Iconlib < Formula
   desc "Bash script to restore macOS application icons trapped in the squircle shape"
   homepage "https://github.com/sabinomaggi/IconLib"
   url "https://github.com/sabinomaggi/IconLib/archive/refs/tags/v0.2.tar.gz"
