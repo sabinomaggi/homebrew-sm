@@ -2,7 +2,7 @@ class Iconlib < Formula
   desc "Bash script to restore macOS application icons trapped in the squircle shape"
   homepage "https://github.com/sabinomaggi/IconLib"
   url "https://github.com/sabinomaggi/IconLib/archive/refs/tags/v0.5.tar.gz"
-  sha256 "5be8cbc9688e445885c2cb4ae5381db3e1ed6ef05e4a9c7adee53b082b78a703"
+  sha256 "15559cf5debaf0485beadac645a6262e2f23987d00025b907bc911934a783a26"
   license "GPL-3.0-or-later"
 
   depends_on "fileicon"
